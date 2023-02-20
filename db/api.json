@@ -1,0 +1,62 @@
+[
+    {
+        "precio": 69420,
+        "id": 1,
+        "title": "Laptop Gamer",
+        "imageUrl": "https://picsum.photos/id/0/600"
+    },   
+    {
+        "precio": 69,
+        "id": 2,
+        "title": "Escritorio para zurdos",
+        "imageUrl": "https://picsum.photos/id/20/600" 
+    },
+    {
+        "precio": 85,
+        "id": 3,
+        "title": "Taza edicion especial de Cristiano Ronaldo",
+        "imageUrl": "https://picsum.photos/id/30/600" 
+    },
+    {
+        "precio": 48237498237,
+        "id": 4,
+        "title": "El bosque de los cien acres",
+        "imageUrl": "https://picsum.photos/id/10/600" 
+    },
+    {
+        "precio": 464,
+        "id": 5,
+        "title": "Gato del miniso",
+        "imageUrl": "https://picsum.photos/id/40/600" 
+    },
+    {
+        "precio": 132,
+        "id": 6,
+        "title": "Pato experto en tiro con arco",
+        "imageUrl": "https://picsum.photos/id/50/600" 
+    },
+    {
+        "precio": 10,
+        "id": 7,
+        "title": "Escritorio para diestros",
+        "imageUrl": "https://picsum.photos/id/60/600" 
+    },
+    {
+        "precio": 409,
+        "id": 8,
+        "title": "Silent Hill",
+        "imageUrl": "https://picsum.photos/id/70/600" 
+    },
+    {
+        "precio": 90,
+        "id": 9,
+        "title": "Bombas Nucleares",
+        "imageUrl": "https://picsum.photos/id/80/600" 
+    },
+    {
+        "precio": 523,
+        "id": 10,
+        "title": "Cerca anti robos",
+        "imageUrl": "https://picsum.photos/id/90/600" 
+    }
+]
